@@ -1,4 +1,4 @@
-# Ethan-SOC-Homelab
+Ethan-SOC-Homelab
 
 A virtualized Security Operations Center built from scratch to learn defensive cybersecurity through hands-on detection engineering, threat hunting, and AI-assisted alert triage.
 
