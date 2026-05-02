@@ -2,7 +2,7 @@
 
 A virtualized Security Operations Center built from scratch to learn defensive cybersecurity through hands-on detection engineering, threat hunting, and AI-assisted alert triage.
 
-**Status:** 🚧 In progress — Phase 0 (setup)
+Status: 🚧 In progress — Phase 0 (setup)
 
 Goal
 
